@@ -1,4 +1,4 @@
-📌 AAR(After Action Review) - [2025.02.10 ~ 2025.02.23]
+📌 AAR(After Action Review) - [2025.02.24 ~ 2025.03.09]
 ## ✅ 1. 목표 (What was supposed to happen?)
 ### 1) JAVA 사내 스터디
 
